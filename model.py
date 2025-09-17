@@ -1,3 +1,8 @@
+"""
+Model for Escape the Python
+Author: Ronny Borries
+"""
+
 import faker
 import random
 import wikipedia
